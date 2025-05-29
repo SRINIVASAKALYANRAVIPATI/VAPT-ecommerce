@@ -1,4 +1,5 @@
-This project involved a comprehensive vulnerability assessment and penetration testing (VAPT) of a live e-commerce web application named Lifestyle Store. The goal was to identify security flaws in the application using manual testing techniques and industry-standard tools, and to provide a detailed report with actionable remediation guidelines.
+This project involved a comprehensive vulnerability assessment and penetration testing (VAPT) of a live e-commerce web application named Lifestyle Store. The goal was to identify security flaws and OWASP Top 10 Vulnerabilities in the application using manual testing techniques and industry-standard tools, and to provide a detailed report with actionable remediation guidelines.
+
 
 The assessment was carried out following the OWASP Top 10 2021 framework, focusing on web application vulnerabilities such as SQL Injection, Cross-Site Scripting, Insecure Direct Object References, Security Misconfigurations, and more.
 
