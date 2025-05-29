@@ -3,6 +3,11 @@ This project involved a comprehensive vulnerability assessment and penetration t
 
 The assessment was carried out following the OWASP Top 10 2021 framework, focusing on web application vulnerabilities such as SQL Injection, Cross-Site Scripting, Insecure Direct Object References, Security Misconfigurations, and more.
 
+
+
+![image alt](owasp-top-10-vulnerabilities-jpg.webp)
+
+
 Scope of Testing:
 Frontend and backend modules of the Lifestyle Store web application
 
